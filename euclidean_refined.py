@@ -87,4 +87,4 @@ print(search_euclidean())
 
 ##### TESTS: Uncomment line below to run tests on euclidean function
 # and make sure to uncomment required lines in the euclidean function too!
-#euclidean_tests.tests(euclidean)
+#euclidean_tests.tests(euclidean) 
